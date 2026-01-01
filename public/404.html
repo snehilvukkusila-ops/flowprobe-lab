@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>FlowProbe</title>
+    <!--
+      GitHub Pages has no server-side SPA fallback: a direct/deep-link
+      navigation to a client-side route (e.g. /flowprobe-screenshot-app/team)
+      returns this static 404.html instead of index.html, so react-router
+      never gets a chance to render. This is the standard workaround
+      (https://github.com/rafgraph/spa-github-pages): encode the intended
+      path into a query string and redirect to index.html, which restores
+      it via history.replaceState before React mounts (see index.html).
+    -->
+    <script>
+      var segmentCount = 1 // matches the '/flowprobe-screenshot-app/' base path (one segment)
+      var l = window.location
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        l.pathname.split('/').slice(0, 1 + segmentCount).join('/') + '/?p=/' +
+        l.pathname.slice(1).split('/').slice(segmentCount).join('/').replace(/&/g, '~and~') +
+        (l.search ? '&q=' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+        l.hash
+      )
+    </script>
+  </head>
+  <body></body>
+</html>

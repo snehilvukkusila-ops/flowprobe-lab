@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Ava Chen",
+    "role": "Engineering Lead",
+    "status": "active",
+    "bio": "Leads the platform team and has been with FlowProbe since the early prototype days."
+  },
+  {
+    "id": "2",
+    "name": "Marcus Reid",
+    "role": "Product Designer",
+    "status": "away",
+    "bio": "Focused on the onboarding flow and design system consistency across pages."
+  },
+  {
+    "id": "3",
+    "name": "Priya Nair",
+    "role": "QA Engineer",
+    "status": "active",
+    "bio": "Owns the test fixture coverage and keeps an eye on regression risk."
+  },
+  {
+    "id": "4",
+    "name": "Diego Alvarez",
+    "role": "Backend Engineer",
+    "status": "offline",
+    "bio": "Builds and maintains the internal reporting APIs."
+  },
+  {
+    "id": "5",
+    "name": "Sofia Kowalski",
+    "role": "Team Coordinator",
+    "status": "active",
+    "bio": "Coordinates cross-team invites, scheduling, and team roster updates."
+  }
+]

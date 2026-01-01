@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Atlas Migration",
+    "owner": "Ava Chen",
+    "ownerId": "1",
+    "status": "active",
+    "deadline": "2026-10-01",
+    "summary": "Migrates the legacy reporting pipeline onto the new Atlas data model without downtime."
+  },
+  {
+    "id": "2",
+    "name": "Onboarding Revamp",
+    "owner": "Marcus Reid",
+    "ownerId": "2",
+    "status": "active",
+    "deadline": "2026-09-28",
+    "summary": "Redesigns the first-run experience to cut time-to-first-value for new accounts."
+  },
+  {
+    "id": "3",
+    "name": "QA Fixture Suite",
+    "owner": "Priya Nair",
+    "ownerId": "3",
+    "status": "review",
+    "deadline": "2026-09-20",
+    "summary": "Builds the shared fixture apps and test data used across every regression pass."
+  },
+  {
+    "id": "4",
+    "name": "Reporting API v2",
+    "owner": "Diego Alvarez",
+    "ownerId": "4",
+    "status": "blocked",
+    "deadline": "2026-11-05",
+    "summary": "Replaces the v1 reporting endpoints; blocked on the Atlas Migration landing first."
+  },
+  {
+    "id": "5",
+    "name": "Team Roster Sync",
+    "owner": "Sofia Kowalski",
+    "ownerId": "5",
+    "status": "active",
+    "deadline": "2026-10-15",
+    "summary": "Keeps the team roster in sync across the directory and the internal Team page."
+  },
+  {
+    "id": "6",
+    "name": "Notification Center",
+    "owner": "Ava Chen",
+    "ownerId": "1",
+    "status": "done",
+    "deadline": "2026-09-10",
+    "summary": "Shipped a unified notification inbox replacing three separate alert channels."
+  }
+]
