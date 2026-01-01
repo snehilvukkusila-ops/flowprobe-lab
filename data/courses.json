@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Harbor Course 944",
+    "status": "closed",
+    "owner": "Dara Garrow",
+    "ownerEmail": "dara.garrow@probe.test",
+    "amount": 1882,
+    "updated": "2025-11-24",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 2,
+    "name": "Lunar Course 820",
+    "status": "approved",
+    "owner": "Lena Marlow",
+    "ownerEmail": "lena.marlow@probe.test",
+    "amount": 2186,
+    "updated": "2025-11-01",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 3,
+    "name": "Quartz Course 671",
+    "status": "approved",
+    "owner": "Kemi Castell",
+    "ownerEmail": "kemi.castell@probe.test",
+    "amount": 182,
+    "updated": "2025-08-15",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 4,
+    "name": "Willow Course 527",
+    "status": "closed",
+    "owner": "Nadia Lowell",
+    "ownerEmail": "nadia.lowell@probe.test",
+    "amount": 261,
+    "updated": "2025-06-29",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 5,
+    "name": "Amber Course 833",
+    "status": "open",
+    "owner": "Elio Garrow",
+    "ownerEmail": "elio.garrow@probe.test",
+    "amount": 1381,
+    "updated": "2025-12-06",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 6,
+    "name": "Lunar Course 913",
+    "status": "on hold",
+    "owner": "Jules Fairchild",
+    "ownerEmail": "jules.fairchild@probe.test",
+    "amount": 2838,
+    "updated": "2025-10-20",
+    "notes": "Checked against the made-up checklist."
+  }
+]

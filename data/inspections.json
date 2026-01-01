@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Willow Inspection 506",
+    "status": "approved",
+    "owner": "Nadia Marlow",
+    "ownerEmail": "nadia.marlow@probe.test",
+    "amount": 2576,
+    "updated": "2025-09-27",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 2,
+    "name": "Pioneer Inspection 548",
+    "status": "in review",
+    "owner": "Chen Iverson",
+    "ownerEmail": "chen.iverson@probe.test",
+    "amount": 4877,
+    "updated": "2025-12-10",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 3,
+    "name": "Granite Inspection 279",
+    "status": "open",
+    "owner": "Nadia Lowell",
+    "ownerEmail": "nadia.lowell@probe.test",
+    "amount": 4494,
+    "updated": "2025-12-24",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 4,
+    "name": "Northern Inspection 888",
+    "status": "on hold",
+    "owner": "Dara Lowell",
+    "ownerEmail": "dara.lowell@probe.test",
+    "amount": 8641,
+    "updated": "2025-10-16",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 5,
+    "name": "Harbor Inspection 728",
+    "status": "open",
+    "owner": "Bianca Lowell",
+    "ownerEmail": "bianca.lowell@probe.test",
+    "amount": 5596,
+    "updated": "2025-08-16",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 6,
+    "name": "Lunar Inspection 578",
+    "status": "closed",
+    "owner": "Kemi Everly",
+    "ownerEmail": "kemi.everly@probe.test",
+    "amount": 1989,
+    "updated": "2025-10-03",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 7,
+    "name": "Amber Inspection 526",
+    "status": "in review",
+    "owner": "Jules Castell",
+    "ownerEmail": "jules.castell@probe.test",
+    "amount": 182,
+    "updated": "2025-10-30",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 8,
+    "name": "Granite Inspection 845",
+    "status": "open",
+    "owner": "Jules Hollis",
+    "ownerEmail": "jules.hollis@probe.test",
+    "amount": 2177,
+    "updated": "2025-08-22",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 9,
+    "name": "Lunar Inspection 718",
+    "status": "closed",
+    "owner": "Milo Hollis",
+    "ownerEmail": "milo.hollis@probe.test",
+    "amount": 5402,
+    "updated": "2025-12-14",
+    "notes": "No real person or company is described here."
+  }
+]

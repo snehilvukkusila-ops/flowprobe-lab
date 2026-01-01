@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Granite License 642",
+    "status": "closed",
+    "owner": "Omar Arden",
+    "ownerEmail": "omar.arden@probe.test",
+    "amount": 329,
+    "updated": "2025-08-09",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 2,
+    "name": "Cedar License 265",
+    "status": "open",
+    "owner": "Alex Everly",
+    "ownerEmail": "alex.everly@probe.test",
+    "amount": 6458,
+    "updated": "2025-06-17",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 3,
+    "name": "Cedar License 896",
+    "status": "on hold",
+    "owner": "Gus Garrow",
+    "ownerEmail": "gus.garrow@probe.test",
+    "amount": 3123,
+    "updated": "2025-11-24",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 4,
+    "name": "Summit License 743",
+    "status": "approved",
+    "owner": "Omar Iverson",
+    "ownerEmail": "omar.iverson@probe.test",
+    "amount": 8032,
+    "updated": "2025-08-17",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 5,
+    "name": "Willow License 348",
+    "status": "closed",
+    "owner": "Ivo Brook",
+    "ownerEmail": "ivo.brook@probe.test",
+    "amount": 5944,
+    "updated": "2025-07-02",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 6,
+    "name": "Copper License 244",
+    "status": "approved",
+    "owner": "Farah Iverson",
+    "ownerEmail": "farah.iverson@probe.test",
+    "amount": 8527,
+    "updated": "2025-12-21",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 7,
+    "name": "Lunar License 961",
+    "status": "on hold",
+    "owner": "Milo Arden",
+    "ownerEmail": "milo.arden@probe.test",
+    "amount": 8266,
+    "updated": "2025-08-15",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 8,
+    "name": "Juniper License 871",
+    "status": "in review",
+    "owner": "Ivo Kestrel",
+    "ownerEmail": "ivo.kestrel@probe.test",
+    "amount": 6933,
+    "updated": "2025-11-11",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 9,
+    "name": "Harbor License 263",
+    "status": "open",
+    "owner": "Farah Kestrel",
+    "ownerEmail": "farah.kestrel@probe.test",
+    "amount": 7016,
+    "updated": "2025-08-27",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 10,
+    "name": "Juniper License 702",
+    "status": "on hold",
+    "owner": "Elio Hollis",
+    "ownerEmail": "elio.hollis@probe.test",
+    "amount": 3680,
+    "updated": "2025-08-21",
+    "notes": "Checked against the made-up checklist."
+  }
+]

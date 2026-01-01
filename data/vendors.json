@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Lunar Vendor 395",
+    "status": "open",
+    "owner": "Dara Iverson",
+    "ownerEmail": "dara.iverson@probe.test",
+    "amount": 6412,
+    "updated": "2025-11-06",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 2,
+    "name": "Pioneer Vendor 804",
+    "status": "open",
+    "owner": "Milo Dunmore",
+    "ownerEmail": "milo.dunmore@probe.test",
+    "amount": 783,
+    "updated": "2025-09-29",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 3,
+    "name": "Granite Vendor 643",
+    "status": "approved",
+    "owner": "Lena Lowell",
+    "ownerEmail": "lena.lowell@probe.test",
+    "amount": 1481,
+    "updated": "2025-11-22",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 4,
+    "name": "Quartz Vendor 172",
+    "status": "open",
+    "owner": "Dara Hollis",
+    "ownerEmail": "dara.hollis@probe.test",
+    "amount": 6360,
+    "updated": "2025-06-21",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 5,
+    "name": "Harbor Vendor 502",
+    "status": "closed",
+    "owner": "Milo Hollis",
+    "ownerEmail": "milo.hollis@probe.test",
+    "amount": 5725,
+    "updated": "2025-08-03",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 6,
+    "name": "Amber Vendor 559",
+    "status": "in review",
+    "owner": "Hana Kestrel",
+    "ownerEmail": "hana.kestrel@probe.test",
+    "amount": 6288,
+    "updated": "2025-08-11",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 7,
+    "name": "Amber Vendor 217",
+    "status": "on hold",
+    "owner": "Hana Garrow",
+    "ownerEmail": "hana.garrow@probe.test",
+    "amount": 2926,
+    "updated": "2025-11-23",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 8,
+    "name": "Harbor Vendor 763",
+    "status": "open",
+    "owner": "Gus Iverson",
+    "ownerEmail": "gus.iverson@probe.test",
+    "amount": 1303,
+    "updated": "2025-11-11",
+    "notes": "Created by the seeded generator."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Quartz Return 859",
+    "status": "closed",
+    "owner": "Pia Lowell",
+    "ownerEmail": "pia.lowell@probe.test",
+    "amount": 3060,
+    "updated": "2025-10-15",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 2,
+    "name": "Copper Return 743",
+    "status": "closed",
+    "owner": "Elio Everly",
+    "ownerEmail": "elio.everly@probe.test",
+    "amount": 500,
+    "updated": "2025-12-10",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 3,
+    "name": "Copper Return 950",
+    "status": "on hold",
+    "owner": "Chen Iverson",
+    "ownerEmail": "chen.iverson@probe.test",
+    "amount": 1637,
+    "updated": "2025-12-05",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 4,
+    "name": "Copper Return 987",
+    "status": "on hold",
+    "owner": "Chen Marlow",
+    "ownerEmail": "chen.marlow@probe.test",
+    "amount": 1221,
+    "updated": "2025-09-28",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 5,
+    "name": "Harbor Return 914",
+    "status": "on hold",
+    "owner": "Gus Lowell",
+    "ownerEmail": "gus.lowell@probe.test",
+    "amount": 6854,
+    "updated": "2025-11-12",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 6,
+    "name": "Willow Return 535",
+    "status": "approved",
+    "owner": "Hana Hollis",
+    "ownerEmail": "hana.hollis@probe.test",
+    "amount": 6504,
+    "updated": "2025-07-06",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 7,
+    "name": "Northern Return 306",
+    "status": "in review",
+    "owner": "Omar Iverson",
+    "ownerEmail": "omar.iverson@probe.test",
+    "amount": 6259,
+    "updated": "2025-10-29",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 8,
+    "name": "Pioneer Return 473",
+    "status": "in review",
+    "owner": "Elio Everly",
+    "ownerEmail": "elio.everly@probe.test",
+    "amount": 50,
+    "updated": "2025-09-06",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 9,
+    "name": "Pioneer Return 190",
+    "status": "on hold",
+    "owner": "Pia Kestrel",
+    "ownerEmail": "pia.kestrel@probe.test",
+    "amount": 3320,
+    "updated": "2025-06-16",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 10,
+    "name": "Pioneer Return 342",
+    "status": "approved",
+    "owner": "Pia Hollis",
+    "ownerEmail": "pia.hollis@probe.test",
+    "amount": 7956,
+    "updated": "2025-09-05",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 11,
+    "name": "Willow Return 510",
+    "status": "closed",
+    "owner": "Ivo Garrow",
+    "ownerEmail": "ivo.garrow@probe.test",
+    "amount": 7185,
+    "updated": "2025-09-16",
+    "notes": "Invented record for the FlowProbe large site."
+  }
+]

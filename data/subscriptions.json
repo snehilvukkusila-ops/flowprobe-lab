@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Quartz Subscription 453",
+    "status": "open",
+    "owner": "Elio Everly",
+    "ownerEmail": "elio.everly@probe.test",
+    "amount": 5835,
+    "updated": "2025-08-28",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 2,
+    "name": "Granite Subscription 857",
+    "status": "approved",
+    "owner": "Kemi Dunmore",
+    "ownerEmail": "kemi.dunmore@probe.test",
+    "amount": 602,
+    "updated": "2025-07-01",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 3,
+    "name": "Quartz Subscription 330",
+    "status": "approved",
+    "owner": "Nadia Brook",
+    "ownerEmail": "nadia.brook@probe.test",
+    "amount": 8327,
+    "updated": "2025-08-09",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 4,
+    "name": "Willow Subscription 972",
+    "status": "in review",
+    "owner": "Omar Garrow",
+    "ownerEmail": "omar.garrow@probe.test",
+    "amount": 7111,
+    "updated": "2025-10-31",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 5,
+    "name": "Granite Subscription 505",
+    "status": "on hold",
+    "owner": "Lena Dunmore",
+    "ownerEmail": "lena.dunmore@probe.test",
+    "amount": 4203,
+    "updated": "2025-07-17",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 6,
+    "name": "Lunar Subscription 145",
+    "status": "open",
+    "owner": "Chen Everly",
+    "ownerEmail": "chen.everly@probe.test",
+    "amount": 1685,
+    "updated": "2025-09-27",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 7,
+    "name": "Willow Subscription 693",
+    "status": "approved",
+    "owner": "Alex Arden",
+    "ownerEmail": "alex.arden@probe.test",
+    "amount": 6853,
+    "updated": "2025-06-19",
+    "notes": "No real person or company is described here."
+  }
+]

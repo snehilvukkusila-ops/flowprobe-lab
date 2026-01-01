@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Cedar Shift 864",
+    "status": "open",
+    "owner": "Hana Arden",
+    "ownerEmail": "hana.arden@probe.test",
+    "amount": 5968,
+    "updated": "2025-11-25",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 2,
+    "name": "Copper Shift 275",
+    "status": "on hold",
+    "owner": "Hana Kestrel",
+    "ownerEmail": "hana.kestrel@probe.test",
+    "amount": 6436,
+    "updated": "2025-06-23",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 3,
+    "name": "Harbor Shift 292",
+    "status": "closed",
+    "owner": "Chen Fairchild",
+    "ownerEmail": "chen.fairchild@probe.test",
+    "amount": 3308,
+    "updated": "2025-12-25",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 4,
+    "name": "Harbor Shift 454",
+    "status": "closed",
+    "owner": "Elio Brook",
+    "ownerEmail": "elio.brook@probe.test",
+    "amount": 1074,
+    "updated": "2025-11-08",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 5,
+    "name": "Lunar Shift 526",
+    "status": "approved",
+    "owner": "Bianca Dunmore",
+    "ownerEmail": "bianca.dunmore@probe.test",
+    "amount": 1979,
+    "updated": "2025-11-25",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 6,
+    "name": "Pioneer Shift 840",
+    "status": "in review",
+    "owner": "Milo Kestrel",
+    "ownerEmail": "milo.kestrel@probe.test",
+    "amount": 576,
+    "updated": "2025-12-06",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 7,
+    "name": "Copper Shift 604",
+    "status": "closed",
+    "owner": "Dara Lowell",
+    "ownerEmail": "dara.lowell@probe.test",
+    "amount": 4339,
+    "updated": "2025-10-18",
+    "notes": "Waiting on a synthetic approval."
+  }
+]

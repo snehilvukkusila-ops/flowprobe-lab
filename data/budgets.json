@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Amber Budget 492",
+    "status": "on hold",
+    "owner": "Dara Kestrel",
+    "ownerEmail": "dara.kestrel@probe.test",
+    "amount": 4893,
+    "updated": "2025-08-15",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 2,
+    "name": "Cedar Budget 759",
+    "status": "on hold",
+    "owner": "Alex Everly",
+    "ownerEmail": "alex.everly@probe.test",
+    "amount": 7395,
+    "updated": "2025-11-05",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 3,
+    "name": "Granite Budget 850",
+    "status": "approved",
+    "owner": "Lena Hollis",
+    "ownerEmail": "lena.hollis@probe.test",
+    "amount": 1520,
+    "updated": "2025-09-04",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 4,
+    "name": "Harbor Budget 538",
+    "status": "approved",
+    "owner": "Pia Kestrel",
+    "ownerEmail": "pia.kestrel@probe.test",
+    "amount": 4404,
+    "updated": "2025-09-23",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 5,
+    "name": "Willow Budget 200",
+    "status": "open",
+    "owner": "Dara Brook",
+    "ownerEmail": "dara.brook@probe.test",
+    "amount": 2804,
+    "updated": "2025-09-24",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 6,
+    "name": "Summit Budget 592",
+    "status": "approved",
+    "owner": "Alex Iverson",
+    "ownerEmail": "alex.iverson@probe.test",
+    "amount": 1097,
+    "updated": "2025-09-17",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 7,
+    "name": "Juniper Budget 405",
+    "status": "on hold",
+    "owner": "Nadia Fairchild",
+    "ownerEmail": "nadia.fairchild@probe.test",
+    "amount": 8749,
+    "updated": "2025-12-29",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 8,
+    "name": "Quartz Budget 957",
+    "status": "approved",
+    "owner": "Nadia Kestrel",
+    "ownerEmail": "nadia.kestrel@probe.test",
+    "amount": 3439,
+    "updated": "2025-10-30",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 9,
+    "name": "Willow Budget 508",
+    "status": "in review",
+    "owner": "Jules Everly",
+    "ownerEmail": "jules.everly@probe.test",
+    "amount": 6560,
+    "updated": "2025-11-09",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 10,
+    "name": "Granite Budget 843",
+    "status": "open",
+    "owner": "Lena Hollis",
+    "ownerEmail": "lena.hollis@probe.test",
+    "amount": 6555,
+    "updated": "2025-11-02",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 11,
+    "name": "Quartz Budget 796",
+    "status": "on hold",
+    "owner": "Lena Dunmore",
+    "ownerEmail": "lena.dunmore@probe.test",
+    "amount": 3832,
+    "updated": "2025-12-03",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 12,
+    "name": "Northern Budget 299",
+    "status": "approved",
+    "owner": "Omar Lowell",
+    "ownerEmail": "omar.lowell@probe.test",
+    "amount": 2490,
+    "updated": "2025-08-14",
+    "notes": "Checked against the made-up checklist."
+  }
+]

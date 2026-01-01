@@ -1,0 +1,7 @@
+{
+  "name": "meridian-ops-large",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Generated FlowProbe Lab \"large\" site: plain ES modules, no build step, no dependencies."
+}

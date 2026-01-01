@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Cedar Claim 326",
+    "status": "in review",
+    "owner": "Milo Marlow",
+    "ownerEmail": "milo.marlow@probe.test",
+    "amount": 89,
+    "updated": "2025-12-04",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 2,
+    "name": "Quartz Claim 975",
+    "status": "closed",
+    "owner": "Pia Hollis",
+    "ownerEmail": "pia.hollis@probe.test",
+    "amount": 5672,
+    "updated": "2025-10-31",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 3,
+    "name": "Harbor Claim 901",
+    "status": "open",
+    "owner": "Dara Everly",
+    "ownerEmail": "dara.everly@probe.test",
+    "amount": 6400,
+    "updated": "2025-11-16",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 4,
+    "name": "Juniper Claim 593",
+    "status": "approved",
+    "owner": "Gus Dunmore",
+    "ownerEmail": "gus.dunmore@probe.test",
+    "amount": 7156,
+    "updated": "2025-09-30",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 5,
+    "name": "Quartz Claim 420",
+    "status": "approved",
+    "owner": "Hana Kestrel",
+    "ownerEmail": "hana.kestrel@probe.test",
+    "amount": 1409,
+    "updated": "2025-12-06",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 6,
+    "name": "Juniper Claim 824",
+    "status": "on hold",
+    "owner": "Jules Kestrel",
+    "ownerEmail": "jules.kestrel@probe.test",
+    "amount": 8780,
+    "updated": "2025-07-06",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 7,
+    "name": "Willow Claim 347",
+    "status": "in review",
+    "owner": "Elio Iverson",
+    "ownerEmail": "elio.iverson@probe.test",
+    "amount": 615,
+    "updated": "2025-09-04",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 8,
+    "name": "Cedar Claim 489",
+    "status": "open",
+    "owner": "Omar Castell",
+    "ownerEmail": "omar.castell@probe.test",
+    "amount": 2603,
+    "updated": "2025-10-25",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 9,
+    "name": "Amber Claim 152",
+    "status": "in review",
+    "owner": "Jules Iverson",
+    "ownerEmail": "jules.iverson@probe.test",
+    "amount": 6280,
+    "updated": "2025-10-05",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 10,
+    "name": "Cedar Claim 650",
+    "status": "open",
+    "owner": "Bianca Brook",
+    "ownerEmail": "bianca.brook@probe.test",
+    "amount": 1274,
+    "updated": "2025-11-19",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 11,
+    "name": "Harbor Claim 952",
+    "status": "on hold",
+    "owner": "Milo Everly",
+    "ownerEmail": "milo.everly@probe.test",
+    "amount": 7568,
+    "updated": "2025-06-15",
+    "notes": "Invented record for the FlowProbe large site."
+  }
+]

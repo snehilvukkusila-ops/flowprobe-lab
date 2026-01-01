@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Lunar Supplier 897",
+    "status": "closed",
+    "owner": "Alex Castell",
+    "ownerEmail": "alex.castell@probe.test",
+    "amount": 6010,
+    "updated": "2025-06-15",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 2,
+    "name": "Granite Supplier 113",
+    "status": "closed",
+    "owner": "Kemi Marlow",
+    "ownerEmail": "kemi.marlow@probe.test",
+    "amount": 7750,
+    "updated": "2025-09-02",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 3,
+    "name": "Cedar Supplier 688",
+    "status": "approved",
+    "owner": "Chen Lowell",
+    "ownerEmail": "chen.lowell@probe.test",
+    "amount": 8496,
+    "updated": "2025-11-16",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 4,
+    "name": "Cedar Supplier 635",
+    "status": "approved",
+    "owner": "Dara Fairchild",
+    "ownerEmail": "dara.fairchild@probe.test",
+    "amount": 1708,
+    "updated": "2025-07-20",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 5,
+    "name": "Summit Supplier 757",
+    "status": "closed",
+    "owner": "Lena Everly",
+    "ownerEmail": "lena.everly@probe.test",
+    "amount": 8306,
+    "updated": "2025-08-03",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 6,
+    "name": "Northern Supplier 773",
+    "status": "closed",
+    "owner": "Dara Marlow",
+    "ownerEmail": "dara.marlow@probe.test",
+    "amount": 7492,
+    "updated": "2025-09-14",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 7,
+    "name": "Pioneer Supplier 249",
+    "status": "open",
+    "owner": "Milo Hollis",
+    "ownerEmail": "milo.hollis@probe.test",
+    "amount": 3557,
+    "updated": "2025-09-09",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 8,
+    "name": "Pioneer Supplier 120",
+    "status": "approved",
+    "owner": "Ivo Fairchild",
+    "ownerEmail": "ivo.fairchild@probe.test",
+    "amount": 5407,
+    "updated": "2025-06-29",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 9,
+    "name": "Granite Supplier 827",
+    "status": "in review",
+    "owner": "Pia Marlow",
+    "ownerEmail": "pia.marlow@probe.test",
+    "amount": 8117,
+    "updated": "2025-08-20",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 10,
+    "name": "Willow Supplier 377",
+    "status": "approved",
+    "owner": "Elio Brook",
+    "ownerEmail": "elio.brook@probe.test",
+    "amount": 7362,
+    "updated": "2025-12-09",
+    "notes": "No real person or company is described here."
+  }
+]

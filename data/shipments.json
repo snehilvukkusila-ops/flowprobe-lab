@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Copper Shipment 942",
+    "status": "approved",
+    "owner": "Gus Fairchild",
+    "ownerEmail": "gus.fairchild@probe.test",
+    "amount": 5621,
+    "updated": "2025-07-24",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 2,
+    "name": "Northern Shipment 326",
+    "status": "approved",
+    "owner": "Nadia Fairchild",
+    "ownerEmail": "nadia.fairchild@probe.test",
+    "amount": 7421,
+    "updated": "2025-08-22",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 3,
+    "name": "Northern Shipment 291",
+    "status": "approved",
+    "owner": "Chen Fairchild",
+    "ownerEmail": "chen.fairchild@probe.test",
+    "amount": 1128,
+    "updated": "2025-10-21",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 4,
+    "name": "Quartz Shipment 563",
+    "status": "approved",
+    "owner": "Bianca Brook",
+    "ownerEmail": "bianca.brook@probe.test",
+    "amount": 3749,
+    "updated": "2025-10-28",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 5,
+    "name": "Juniper Shipment 792",
+    "status": "closed",
+    "owner": "Kemi Iverson",
+    "ownerEmail": "kemi.iverson@probe.test",
+    "amount": 6575,
+    "updated": "2025-11-13",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 6,
+    "name": "Granite Shipment 761",
+    "status": "approved",
+    "owner": "Ivo Fairchild",
+    "ownerEmail": "ivo.fairchild@probe.test",
+    "amount": 4194,
+    "updated": "2025-12-13",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 7,
+    "name": "Granite Shipment 684",
+    "status": "approved",
+    "owner": "Omar Lowell",
+    "ownerEmail": "omar.lowell@probe.test",
+    "amount": 362,
+    "updated": "2025-12-17",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 8,
+    "name": "Granite Shipment 391",
+    "status": "approved",
+    "owner": "Elio Hollis",
+    "ownerEmail": "elio.hollis@probe.test",
+    "amount": 2095,
+    "updated": "2025-08-09",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 9,
+    "name": "Harbor Shipment 261",
+    "status": "approved",
+    "owner": "Kemi Hollis",
+    "ownerEmail": "kemi.hollis@probe.test",
+    "amount": 963,
+    "updated": "2025-08-26",
+    "notes": "Created by the seeded generator."
+  }
+]

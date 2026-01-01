@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Harbor Survey 335",
+    "status": "approved",
+    "owner": "Omar Brook",
+    "ownerEmail": "omar.brook@probe.test",
+    "amount": 4738,
+    "updated": "2025-12-23",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 2,
+    "name": "Granite Survey 891",
+    "status": "in review",
+    "owner": "Elio Arden",
+    "ownerEmail": "elio.arden@probe.test",
+    "amount": 8748,
+    "updated": "2025-08-31",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 3,
+    "name": "Copper Survey 268",
+    "status": "closed",
+    "owner": "Hana Fairchild",
+    "ownerEmail": "hana.fairchild@probe.test",
+    "amount": 4422,
+    "updated": "2025-10-19",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 4,
+    "name": "Juniper Survey 434",
+    "status": "closed",
+    "owner": "Farah Hollis",
+    "ownerEmail": "farah.hollis@probe.test",
+    "amount": 912,
+    "updated": "2025-06-17",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 5,
+    "name": "Juniper Survey 911",
+    "status": "approved",
+    "owner": "Hana Dunmore",
+    "ownerEmail": "hana.dunmore@probe.test",
+    "amount": 3890,
+    "updated": "2025-10-04",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 6,
+    "name": "Lunar Survey 834",
+    "status": "closed",
+    "owner": "Jules Hollis",
+    "ownerEmail": "jules.hollis@probe.test",
+    "amount": 571,
+    "updated": "2025-09-23",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 7,
+    "name": "Cedar Survey 343",
+    "status": "approved",
+    "owner": "Milo Brook",
+    "ownerEmail": "milo.brook@probe.test",
+    "amount": 2907,
+    "updated": "2025-06-29",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 8,
+    "name": "Amber Survey 266",
+    "status": "on hold",
+    "owner": "Dara Garrow",
+    "ownerEmail": "dara.garrow@probe.test",
+    "amount": 7615,
+    "updated": "2025-06-16",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 9,
+    "name": "Harbor Survey 468",
+    "status": "in review",
+    "owner": "Elio Marlow",
+    "ownerEmail": "elio.marlow@probe.test",
+    "amount": 6676,
+    "updated": "2025-07-28",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 10,
+    "name": "Harbor Survey 946",
+    "status": "in review",
+    "owner": "Chen Iverson",
+    "ownerEmail": "chen.iverson@probe.test",
+    "amount": 5029,
+    "updated": "2025-10-03",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 11,
+    "name": "Quartz Survey 993",
+    "status": "on hold",
+    "owner": "Pia Fairchild",
+    "ownerEmail": "pia.fairchild@probe.test",
+    "amount": 4905,
+    "updated": "2025-10-25",
+    "notes": "Created by the seeded generator."
+  }
+]

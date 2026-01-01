@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Amber Ticket 573",
+    "status": "closed",
+    "owner": "Nadia Marlow",
+    "ownerEmail": "nadia.marlow@probe.test",
+    "amount": 2370,
+    "updated": "2025-07-14",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 2,
+    "name": "Juniper Ticket 321",
+    "status": "in review",
+    "owner": "Farah Garrow",
+    "ownerEmail": "farah.garrow@probe.test",
+    "amount": 2148,
+    "updated": "2025-11-01",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 3,
+    "name": "Harbor Ticket 752",
+    "status": "in review",
+    "owner": "Gus Castell",
+    "ownerEmail": "gus.castell@probe.test",
+    "amount": 8620,
+    "updated": "2025-06-19",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 4,
+    "name": "Quartz Ticket 544",
+    "status": "approved",
+    "owner": "Farah Castell",
+    "ownerEmail": "farah.castell@probe.test",
+    "amount": 6841,
+    "updated": "2025-08-21",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 5,
+    "name": "Pioneer Ticket 869",
+    "status": "in review",
+    "owner": "Elio Brook",
+    "ownerEmail": "elio.brook@probe.test",
+    "amount": 3651,
+    "updated": "2025-11-24",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 6,
+    "name": "Summit Ticket 461",
+    "status": "in review",
+    "owner": "Nadia Everly",
+    "ownerEmail": "nadia.everly@probe.test",
+    "amount": 6668,
+    "updated": "2025-10-01",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 7,
+    "name": "Quartz Ticket 949",
+    "status": "closed",
+    "owner": "Omar Arden",
+    "ownerEmail": "omar.arden@probe.test",
+    "amount": 4636,
+    "updated": "2025-10-03",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 8,
+    "name": "Quartz Ticket 239",
+    "status": "open",
+    "owner": "Chen Brook",
+    "ownerEmail": "chen.brook@probe.test",
+    "amount": 1057,
+    "updated": "2025-10-24",
+    "notes": "Checked against the made-up checklist."
+  }
+]

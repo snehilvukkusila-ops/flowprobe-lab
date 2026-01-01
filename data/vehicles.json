@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Lunar Vehicle 470",
+    "status": "closed",
+    "owner": "Chen Lowell",
+    "ownerEmail": "chen.lowell@probe.test",
+    "amount": 4373,
+    "updated": "2025-07-24",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 2,
+    "name": "Pioneer Vehicle 514",
+    "status": "open",
+    "owner": "Omar Dunmore",
+    "ownerEmail": "omar.dunmore@probe.test",
+    "amount": 123,
+    "updated": "2025-10-22",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 3,
+    "name": "Lunar Vehicle 930",
+    "status": "open",
+    "owner": "Chen Arden",
+    "ownerEmail": "chen.arden@probe.test",
+    "amount": 7458,
+    "updated": "2025-08-21",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 4,
+    "name": "Summit Vehicle 338",
+    "status": "open",
+    "owner": "Farah Brook",
+    "ownerEmail": "farah.brook@probe.test",
+    "amount": 8113,
+    "updated": "2025-06-29",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 5,
+    "name": "Juniper Vehicle 875",
+    "status": "open",
+    "owner": "Dara Fairchild",
+    "ownerEmail": "dara.fairchild@probe.test",
+    "amount": 8505,
+    "updated": "2025-07-08",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 6,
+    "name": "Pioneer Vehicle 203",
+    "status": "on hold",
+    "owner": "Gus Castell",
+    "ownerEmail": "gus.castell@probe.test",
+    "amount": 5106,
+    "updated": "2025-12-22",
+    "notes": "No real person or company is described here."
+  }
+]

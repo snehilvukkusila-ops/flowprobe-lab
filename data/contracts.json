@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Willow Contract 390",
+    "status": "closed",
+    "owner": "Jules Marlow",
+    "ownerEmail": "jules.marlow@probe.test",
+    "amount": 4835,
+    "updated": "2025-07-31",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 2,
+    "name": "Summit Contract 602",
+    "status": "open",
+    "owner": "Gus Fairchild",
+    "ownerEmail": "gus.fairchild@probe.test",
+    "amount": 5894,
+    "updated": "2025-06-30",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 3,
+    "name": "Juniper Contract 980",
+    "status": "closed",
+    "owner": "Bianca Castell",
+    "ownerEmail": "bianca.castell@probe.test",
+    "amount": 6971,
+    "updated": "2025-07-03",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 4,
+    "name": "Summit Contract 911",
+    "status": "on hold",
+    "owner": "Farah Hollis",
+    "ownerEmail": "farah.hollis@probe.test",
+    "amount": 4586,
+    "updated": "2025-11-04",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 5,
+    "name": "Summit Contract 274",
+    "status": "on hold",
+    "owner": "Omar Marlow",
+    "ownerEmail": "omar.marlow@probe.test",
+    "amount": 4014,
+    "updated": "2025-09-14",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 6,
+    "name": "Summit Contract 770",
+    "status": "in review",
+    "owner": "Bianca Marlow",
+    "ownerEmail": "bianca.marlow@probe.test",
+    "amount": 3845,
+    "updated": "2025-10-08",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 7,
+    "name": "Lunar Contract 946",
+    "status": "open",
+    "owner": "Ivo Everly",
+    "ownerEmail": "ivo.everly@probe.test",
+    "amount": 550,
+    "updated": "2025-10-15",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 8,
+    "name": "Harbor Contract 948",
+    "status": "in review",
+    "owner": "Chen Kestrel",
+    "ownerEmail": "chen.kestrel@probe.test",
+    "amount": 4277,
+    "updated": "2025-12-21",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 9,
+    "name": "Amber Contract 199",
+    "status": "on hold",
+    "owner": "Alex Garrow",
+    "ownerEmail": "alex.garrow@probe.test",
+    "amount": 7431,
+    "updated": "2025-08-21",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 10,
+    "name": "Granite Contract 133",
+    "status": "on hold",
+    "owner": "Ivo Garrow",
+    "ownerEmail": "ivo.garrow@probe.test",
+    "amount": 4387,
+    "updated": "2025-12-04",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 11,
+    "name": "Pioneer Contract 542",
+    "status": "closed",
+    "owner": "Lena Lowell",
+    "ownerEmail": "lena.lowell@probe.test",
+    "amount": 5218,
+    "updated": "2025-06-21",
+    "notes": "Created by the seeded generator."
+  }
+]

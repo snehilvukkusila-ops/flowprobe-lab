@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Lunar Invoice 847",
+    "status": "in review",
+    "owner": "Milo Castell",
+    "ownerEmail": "milo.castell@probe.test",
+    "amount": 922,
+    "updated": "2025-12-06",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 2,
+    "name": "Pioneer Invoice 528",
+    "status": "open",
+    "owner": "Ivo Castell",
+    "ownerEmail": "ivo.castell@probe.test",
+    "amount": 8049,
+    "updated": "2025-08-03",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 3,
+    "name": "Juniper Invoice 657",
+    "status": "open",
+    "owner": "Kemi Kestrel",
+    "ownerEmail": "kemi.kestrel@probe.test",
+    "amount": 6906,
+    "updated": "2025-10-13",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 4,
+    "name": "Cedar Invoice 579",
+    "status": "closed",
+    "owner": "Hana Arden",
+    "ownerEmail": "hana.arden@probe.test",
+    "amount": 201,
+    "updated": "2025-10-25",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 5,
+    "name": "Northern Invoice 138",
+    "status": "closed",
+    "owner": "Kemi Marlow",
+    "ownerEmail": "kemi.marlow@probe.test",
+    "amount": 3693,
+    "updated": "2025-09-28",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 6,
+    "name": "Cedar Invoice 208",
+    "status": "closed",
+    "owner": "Jules Lowell",
+    "ownerEmail": "jules.lowell@probe.test",
+    "amount": 4261,
+    "updated": "2025-06-15",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 7,
+    "name": "Copper Invoice 447",
+    "status": "in review",
+    "owner": "Kemi Marlow",
+    "ownerEmail": "kemi.marlow@probe.test",
+    "amount": 2257,
+    "updated": "2025-08-25",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 8,
+    "name": "Willow Invoice 160",
+    "status": "in review",
+    "owner": "Alex Fairchild",
+    "ownerEmail": "alex.fairchild@probe.test",
+    "amount": 5611,
+    "updated": "2025-08-16",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 9,
+    "name": "Northern Invoice 512",
+    "status": "closed",
+    "owner": "Alex Marlow",
+    "ownerEmail": "alex.marlow@probe.test",
+    "amount": 2708,
+    "updated": "2025-10-09",
+    "notes": "Waiting on a synthetic approval."
+  }
+]

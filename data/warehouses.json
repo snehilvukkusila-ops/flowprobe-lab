@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Pioneer Warehouse 998",
+    "status": "approved",
+    "owner": "Milo Brook",
+    "ownerEmail": "milo.brook@probe.test",
+    "amount": 8210,
+    "updated": "2025-11-18",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 2,
+    "name": "Amber Warehouse 196",
+    "status": "approved",
+    "owner": "Milo Garrow",
+    "ownerEmail": "milo.garrow@probe.test",
+    "amount": 7184,
+    "updated": "2025-11-15",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 3,
+    "name": "Copper Warehouse 836",
+    "status": "open",
+    "owner": "Omar Fairchild",
+    "ownerEmail": "omar.fairchild@probe.test",
+    "amount": 4235,
+    "updated": "2025-06-21",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 4,
+    "name": "Northern Warehouse 294",
+    "status": "on hold",
+    "owner": "Omar Iverson",
+    "ownerEmail": "omar.iverson@probe.test",
+    "amount": 342,
+    "updated": "2025-11-13",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 5,
+    "name": "Summit Warehouse 530",
+    "status": "open",
+    "owner": "Elio Marlow",
+    "ownerEmail": "elio.marlow@probe.test",
+    "amount": 3314,
+    "updated": "2025-06-16",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 6,
+    "name": "Granite Warehouse 311",
+    "status": "in review",
+    "owner": "Chen Garrow",
+    "ownerEmail": "chen.garrow@probe.test",
+    "amount": 6297,
+    "updated": "2025-12-29",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 7,
+    "name": "Cedar Warehouse 138",
+    "status": "on hold",
+    "owner": "Elio Iverson",
+    "ownerEmail": "elio.iverson@probe.test",
+    "amount": 8633,
+    "updated": "2025-12-07",
+    "notes": "Checked against the made-up checklist."
+  },
+  {
+    "id": 8,
+    "name": "Lunar Warehouse 597",
+    "status": "open",
+    "owner": "Gus Everly",
+    "ownerEmail": "gus.everly@probe.test",
+    "amount": 2072,
+    "updated": "2025-09-22",
+    "notes": "Created by the seeded generator."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Amber Meeting 872",
+    "status": "approved",
+    "owner": "Chen Kestrel",
+    "ownerEmail": "chen.kestrel@probe.test",
+    "amount": 3710,
+    "updated": "2025-06-27",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 2,
+    "name": "Juniper Meeting 653",
+    "status": "open",
+    "owner": "Bianca Kestrel",
+    "ownerEmail": "bianca.kestrel@probe.test",
+    "amount": 487,
+    "updated": "2025-08-31",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 3,
+    "name": "Copper Meeting 485",
+    "status": "closed",
+    "owner": "Dara Brook",
+    "ownerEmail": "dara.brook@probe.test",
+    "amount": 4451,
+    "updated": "2025-12-01",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 4,
+    "name": "Harbor Meeting 342",
+    "status": "closed",
+    "owner": "Gus Iverson",
+    "ownerEmail": "gus.iverson@probe.test",
+    "amount": 4948,
+    "updated": "2025-06-22",
+    "notes": "Invented record for the FlowProbe large site."
+  },
+  {
+    "id": 5,
+    "name": "Cedar Meeting 912",
+    "status": "on hold",
+    "owner": "Alex Lowell",
+    "ownerEmail": "alex.lowell@probe.test",
+    "amount": 782,
+    "updated": "2025-08-24",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 6,
+    "name": "Quartz Meeting 789",
+    "status": "approved",
+    "owner": "Omar Brook",
+    "ownerEmail": "omar.brook@probe.test",
+    "amount": 6960,
+    "updated": "2025-09-20",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 7,
+    "name": "Lunar Meeting 659",
+    "status": "on hold",
+    "owner": "Kemi Everly",
+    "ownerEmail": "kemi.everly@probe.test",
+    "amount": 3566,
+    "updated": "2025-07-03",
+    "notes": "No real person or company is described here."
+  },
+  {
+    "id": 8,
+    "name": "Juniper Meeting 243",
+    "status": "open",
+    "owner": "Kemi Garrow",
+    "ownerEmail": "kemi.garrow@probe.test",
+    "amount": 4642,
+    "updated": "2025-09-20",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 9,
+    "name": "Northern Meeting 230",
+    "status": "closed",
+    "owner": "Milo Iverson",
+    "ownerEmail": "milo.iverson@probe.test",
+    "amount": 1132,
+    "updated": "2025-07-10",
+    "notes": "Created by the seeded generator."
+  },
+  {
+    "id": 10,
+    "name": "Granite Meeting 329",
+    "status": "in review",
+    "owner": "Lena Everly",
+    "ownerEmail": "lena.everly@probe.test",
+    "amount": 4706,
+    "updated": "2025-07-16",
+    "notes": "Waiting on a synthetic approval."
+  },
+  {
+    "id": 11,
+    "name": "Juniper Meeting 782",
+    "status": "on hold",
+    "owner": "Kemi Garrow",
+    "ownerEmail": "kemi.garrow@probe.test",
+    "amount": 1016,
+    "updated": "2025-12-18",
+    "notes": "Invented record for the FlowProbe large site."
+  }
+]
