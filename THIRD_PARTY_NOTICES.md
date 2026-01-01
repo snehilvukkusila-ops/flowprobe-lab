@@ -56,6 +56,20 @@ Before publishing to the public fixture repo, the upstream author's contact emai
 
 The server side of the sign-in (`sites/admin/api.mjs`) and the German twin (`admin-de`, same build, page language set by the server) are ours. The plan named i18next; a 150-line own dictionary was used instead so no extra package is added.
 
+## 1c. security-crawl-maze (site "hostile")
+
+| Field | Value |
+|---|---|
+| Source | https://github.com/google/security-crawl-maze (branch `master`) |
+| Pinned commit | `2a0dd0a75e39925ded887bcd25016e8b3ce0f2b3` (2026-03-26) |
+| Licence | Apache-2.0. Kept verbatim in `LICENSES/security-crawl-maze.LICENSE`. Upstream ships no NOTICE file; see `LICENSES/security-crawl-maze.NOTICE.md` |
+| Read before vendoring | Yes: every taken file. The only absolute URLs are XML namespaces (`xmlns`); no CDN, font or analytics link |
+| Taken | The static test-case HTML, byte for byte from the git blobs: `test-cases/html/**` (minus 4 extensionless Jinja placeholders), `test-cases/css/font-face.html`, `test-cases/javascript/interactive/*.html`, `test-cases/javascript/misc/*.html`, `test-cases/misc/known-files/*.html` (68 files, to `sites/hostile/source/` at the same relative paths), and `blueprints/utils/resources/expected-results.json` (to `source/maze-upstream/`) |
+| Not taken | The Flask server (`app.py`, `blueprints/`), `Dockerfile`, `cloudbuild.yaml`, the JS framework apps (angular, angularjs, polymer, react), `test-cases/headers/*` (need dynamic headers), `templates/` |
+| Changed | Nothing in the vendored files |
+
+Written by us for this site: `sites/hostile/handler.mjs` (dynamic routes and traps), `lib.mjs`, `build.mjs`, `source/index.html`, `source/traps/*.html`, `source/robots.txt`, `source/sitemap.xml`, `source/css/font-face.css`, `source/javascript/misc/*.js` (our static stand-ins for the three scripts the Flask server generated), `source/README.md`, `EXPECTED/hostile.json`.
+
 ## 2. Written by us (no third-party code)
 
 `server/` (node:http server, control port, trap recorder, seeded clock, git tree hash),
@@ -66,6 +80,6 @@ and uses no npm packages.
 
 ## 3. Planned (later tracks, not yet vendored)
 
-vue3-realworld-example-app, security-crawl-maze, graphql-http, ws, turborepo
+vue3-realworld-example-app, graphql-http, ws, turborepo
 `with-vite`, router examples. Each is added to this file, with its licence read first, in the
 track that vendors it.
