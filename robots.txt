@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /test/misc/known-files/robots.txt.found

@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Pop-up - FlowProbe hostile</title>
+</head>
+<body>
+<main id="main">
+<h1>Pop-up</h1>
+<p>The button opens a second window. The window address is not in any link on this page.</p>
+<p><button type="button" id="open">Open the pop-up</button></p>
+<script>
+document.getElementById("open").addEventListener("click", function () {
+  window.open("/popup/target", "_blank");
+});
+</script>
+<p><a href="/">Back to the hostile site home</a></p>
+</main>
+</body>
+</html>

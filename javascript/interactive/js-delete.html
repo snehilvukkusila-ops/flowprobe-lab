@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>CrawlMaze - Testbed for Web Crawlers - JS DELETE </title>
+<h1> DELETE method from JavaScript </h1>
+<input type="button" onClick="myFunction()" value="Submit">
+<p>
+  The DELETE request is sent via JavaScript fetch when the button is clicked.
+</p>
+
+<script>
+    function myFunction(){
+        fetch("/test/javascript/interactive/js-delete.found", {method: "DELETE"});
+    }
+</script>

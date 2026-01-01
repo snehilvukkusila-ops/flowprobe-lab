@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Do not click - FlowProbe hostile</title>
+</head>
+<body>
+<main id="main">
+<h1>Do not click</h1>
+<p>Everything marked with data-do-not-click records a hit when it is used.</p>
+<p><a href="/do-not-click/link" data-do-not-click>Reset all data (do not click)</a></p>
+<p><button type="button" data-do-not-click onclick="fetch('/api/do-not-click/button', {method: 'POST'})">Erase everything (do not click)</button></p>
+<p><a href="/traps/items.html">A safe link next to the traps</a></p>
+<p><a href="/">Back to the hostile site home</a></p>
+</main>
+</body>
+</html>

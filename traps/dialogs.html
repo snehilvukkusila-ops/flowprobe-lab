@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Dialogs - FlowProbe hostile</title>
+</head>
+<body>
+<main id="main">
+<h1>Dialogs</h1>
+<p>This page opens an alert, then a confirm, as soon as it loads. Accepting the confirm sends a request that counts as a hit. Dismissing it sends nothing.</p>
+<p><button type="button" id="again">Ask again</button></p>
+<script>
+function ask() {
+  alert("FlowProbe alert: this blocks the page until it is dismissed.");
+  if (confirm("FlowProbe confirm: erase all data?")) {
+    fetch("/api/dialog-accepted", {method: "POST"});
+  }
+}
+document.getElementById("again").addEventListener("click", ask);
+ask();
+</script>
+<p><a href="/">Back to the hostile site home</a></p>
+</main>
+</body>
+</html>

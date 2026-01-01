@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Shadow DOM - FlowProbe hostile</title>
+</head>
+<body>
+<main id="main">
+<h1>Shadow DOM</h1>
+<p>The link below lives inside a shadow root made by a script. A crawler that reads only the HTML does not see it.</p>
+<div id="host"></div>
+<script>
+var root = document.getElementById("host").attachShadow({mode: "open"});
+root.innerHTML = "<nav aria-label=\"Shadow navigation\"><a href=\"/shadow/target\">Open the shadow page</a></nav>";
+</script>
+<p><a href="/">Back to the hostile site home</a></p>
+</main>
+</body>
+</html>
