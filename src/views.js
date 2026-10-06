@@ -122,7 +122,7 @@ export function signInView({ navigate, next }) {
 
 export function noAccess({ need }) {
   return h('div', null, h('h1', null, 'No access'),
-    h('p', { role: 'alert', class: 'error' }, `Your role (${currentRole()}) cannot open this screen. It needs ${need.join(' or ')}.`),
+    h('p', { role: 'alert', class: 'error' }, `Your role (${currentRole()}) cannot open this screen. ${Array.isArray(need) && need.length ? `It needs ${need.join(' or ')}.` : 'It needs a higher role.'}`),
     h('a', { href: '/sign-in' }, 'Sign in with another role'))
 }
 
