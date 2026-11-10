@@ -1,0 +1,186 @@
+{
+  "fixture": "probe-pages",
+  "apps": [
+    {
+      "id": "web",
+      "mount_prefix": "/probe-pages/",
+      "title": "Probe Pages"
+    }
+  ],
+  "routes": [
+    {
+      "app": "web",
+      "mount_prefix": "/probe-pages/",
+      "path": "/dashboard",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/dashboard.html",
+      "form_fields": []
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-pages/",
+      "path": "/team",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/team.html",
+      "form_fields": [],
+      "badges": [
+        "Active",
+        "Away",
+        "Offline"
+      ],
+      "table_columns": [
+        "Name",
+        "Role",
+        "Status"
+      ]
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-pages/",
+      "path": "/invite",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/invite.html",
+      "form_fields": [
+        "Email",
+        "Role",
+        "Send welcome email",
+        "Access expires",
+        "Seat limit"
+      ]
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-pages/",
+      "path": "/settings",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/settings.html",
+      "form_fields": [
+        "Display name",
+        "Theme",
+        "Language",
+        "Notification frequency",
+        "Enable two-factor authentication",
+        "Time zone"
+      ]
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-pages/",
+      "path": "/create-report",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/create-report.html",
+      "form_fields": [
+        "Report title"
+      ]
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-pages/",
+      "path": "/create-report/step-2",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/create-report-step-2.html",
+      "form_fields": []
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-pages/",
+      "path": "/workspace",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/workspace.html",
+      "form_fields": [
+        "Workspace name",
+        "Workspace URL"
+      ]
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-pages/",
+      "path": "/admin/workspace",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/admin-workspace.html",
+      "form_fields": [
+        "Data retention days",
+        "Allowed email domain"
+      ]
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-pages/",
+      "path": "/profile",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/profile.html",
+      "form_fields": []
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-pages/",
+      "path": "/*",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/catch-all.html",
+      "form_fields": [],
+      "catch_all": true
+    }
+  ],
+  "endpoints": [],
+  "logins": {
+    "admin": {
+      "password": "probe-admin",
+      "roles": []
+    },
+    "locked": {
+      "password": "probe-locked",
+      "roles": []
+    }
+  },
+  "login_path": "/login"
+}
