@@ -1,0 +1,99 @@
+{
+  "fixture": "probe-fields",
+  "apps": [
+    {
+      "id": "web",
+      "mount_prefix": "/probe-fields/",
+      "title": "Probe Fields"
+    }
+  ],
+  "routes": [
+    {
+      "app": "web",
+      "mount_prefix": "/probe-fields/",
+      "path": "/tasks",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/tasks.html",
+      "form_fields": [],
+      "badges": [
+        "Beta"
+      ],
+      "table_columns": [
+        "Title",
+        "Priority",
+        "Status"
+      ],
+      "row_headers": [
+        "Acme Corp"
+      ]
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-fields/",
+      "path": "/tasks/new",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/tasks-new.html",
+      "form_fields": [
+        "Title",
+        "Priority",
+        "Category",
+        "Visibility",
+        "Notify watchers",
+        "Estimate (hours)",
+        "Reference",
+        "Code"
+      ]
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-fields/",
+      "path": "/profile",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/profile.html",
+      "form_fields": [
+        "Display name",
+        "Assignee"
+      ]
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-fields/",
+      "path": "/about",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/about.html",
+      "form_fields": []
+    }
+  ],
+  "endpoints": [],
+  "logins": {
+    "admin": {
+      "password": "probe-admin",
+      "roles": []
+    },
+    "locked": {
+      "password": "probe-locked",
+      "roles": []
+    }
+  },
+  "login_path": "/login"
+}
