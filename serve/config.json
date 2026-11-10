@@ -1,0 +1,104 @@
+{
+  "fixture": "probe-guide",
+  "apps": [
+    {
+      "id": "web",
+      "mount_prefix": "/probe-guide/",
+      "title": "Probe Guide"
+    }
+  ],
+  "routes": [
+    {
+      "app": "web",
+      "mount_prefix": "/probe-guide/",
+      "path": "/goals",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/goals.html",
+      "form_fields": []
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-guide/",
+      "path": "/goals/new",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/goals-new.html",
+      "form_fields": [
+        "Goal title",
+        "Target date",
+        "Owner",
+        "Priority",
+        "Status",
+        "Notes"
+      ]
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-guide/",
+      "path": "/goals/:id/edit",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": true,
+      "instances": [
+        "/goals/1/edit"
+      ],
+      "page": "pages/web/goals-id-edit.html",
+      "form_fields": []
+    },
+    {
+      "app": "web",
+      "mount_prefix": "/probe-guide/",
+      "path": "/reports",
+      "status": 200,
+      "role": null,
+      "redirects_to": null,
+      "final": null,
+      "dynamic": false,
+      "instances": [],
+      "page": "pages/web/reports.html",
+      "form_fields": []
+    }
+  ],
+  "endpoints": [
+    {
+      "method": "GET",
+      "path_template": "/api/goals",
+      "status": 200,
+      "auth_maintenance": false,
+      "response": {
+        "ok": true
+      }
+    },
+    {
+      "method": "GET",
+      "path_template": "/api/goals/owners",
+      "status": 200,
+      "auth_maintenance": false,
+      "response": {
+        "ok": true
+      }
+    }
+  ],
+  "logins": {
+    "admin": {
+      "password": "probe-admin",
+      "roles": []
+    },
+    "locked": {
+      "password": "probe-locked",
+      "roles": []
+    }
+  },
+  "login_path": "/login"
+}
